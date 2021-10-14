@@ -1,6 +1,9 @@
-### Hi there 👋
+### 사람들을 도와주는 개발자가 되길 바랍니다 :)
 
 <!--
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+
 **JChan91/JChan91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
